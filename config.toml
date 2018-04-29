@@ -1,6 +1,7 @@
 # Site settings
 baseurl = "https://example.org/"
 themesDir = "themes"
+publishDir = "docs"
 languageCode = "en-au"
 title = "My example Hugo site"
 theme = "cactus"
